@@ -1,0 +1,14 @@
+extern const GeoLayout pgy_area_1_geo[];
+extern const GeoLayout pgy_dl_skinned_001_geo[];
+extern const GeoLayout pgy_area_1[];
+extern const Collision pgy_area_1_collision[];
+extern const u8 pgy_area_1_collision_rooms[];
+extern const MacroObject pgy_area_1_macro_objs[];
+extern u8 pgy_dl_noteblockreadyicon_rgba16[];
+extern u8 pgy_dl_ghnskin_rgba16[];
+extern Vtx pgy_dl_Cube_mesh_layer_1_vtx_cull[8];
+extern Vtx pgy_dl_Cube_mesh_layer_1_vtx_0[24];
+extern Vtx pgy_dl_skinned_001_mesh_layer_1_vtx_cull[8];
+extern Vtx pgy_dl_skinned_001_mesh_layer_1_vtx_0[633];
+extern Gfx pgy_dl_Cube_mesh_layer_1[];
+extern Gfx pgy_dl_skinned_001_mesh_layer_1[];
